@@ -24,20 +24,20 @@ This project allows users to convert long URLs into short, shareable links and r
 ---
 
 ## 📁 Project Structure
-
+```
 go-url-shortener/
 │── main.go
 │── go.mod
-
+```
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-
-git clone https://github.com/your-username/go-url-shortener.git  
+```
+git clone https://github.com/rishi02soni/go-url-shortener.git  
 cd go-url-shortener
-
+```
 ---
 
 ### 2. Install Dependencies
