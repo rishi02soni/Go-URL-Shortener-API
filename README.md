@@ -5,7 +5,7 @@ This project allows users to convert long URLs into short, shareable links and r
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Shorten long URLs
 -  Fast redirection
@@ -15,7 +15,7 @@ This project allows users to convert long URLs into short, shareable links and r
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Go (Golang)
 - Gorilla Mux (Router)
@@ -23,7 +23,7 @@ This project allows users to convert long URLs into short, shareable links and r
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 go-url-shortener/
 │── main.go
@@ -31,7 +31,7 @@ go-url-shortener/
 ```
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```
@@ -52,13 +52,13 @@ go run main.go
 
 ---
 
-## 🌐 Server
+##  Server
 
 http://localhost:8000
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### ➤ Shorten URL
 
