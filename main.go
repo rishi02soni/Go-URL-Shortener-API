@@ -30,7 +30,7 @@ func generateShortURL() string {
 	return string(short)
 }
 
-// Create short URL
+
 func createShortURL(w http.ResponseWriter, r *http.Request) {
 	var req URL
 	_ = json.NewDecoder(r.Body).Decode(&req)
@@ -47,7 +47,7 @@ func createShortURL(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode(res)
 }
 
-// Redirect to original URL
+
 func redirectURL(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
 	short := params["short"]
