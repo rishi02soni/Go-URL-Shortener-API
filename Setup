@@ -1,2 +1,4 @@
+//Setup
+
 go mod init go-url-shortener
 go get github.com/gorilla/mux
