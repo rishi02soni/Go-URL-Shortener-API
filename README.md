@@ -7,11 +7,11 @@ This project allows users to convert long URLs into short, shareable links and r
 
 ## 🚀 Features
 
-- 🔗 Shorten long URLs
-- ⚡ Fast redirection
-- 🧠 In-memory storage (map-based)
-- 🪶 Lightweight and beginner-friendly
-- 🌐 REST API based
+-  Shorten long URLs
+-  Fast redirection
+-  In-memory storage (map-based)
+-  Lightweight and beginner-friendly
+-  REST API based
 
 ---
 
@@ -104,5 +104,5 @@ No custom aliases
 ```
 ## Author
 Rishi Soni
-Passionate about building impactful tech
+> Passionate about building impactful tech
 
